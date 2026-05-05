@@ -1,0 +1,6 @@
+{
+	"name": "Azure-SelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
